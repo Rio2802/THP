@@ -48,13 +48,7 @@ Enhancing the user interface for a more intuitive and visually appealing experie
 Adding security measures like user authentication and authorization.
 # License
 
-Specify the license under which you're distributing your code (e.g., MIT License). You can use a license file (LICENSE) to provide details.
-# Additional Notes
-
-Feel free to include screenshots showcasing the admin and user interfaces (optional).
-Mention any external libraries or dependencies used in the project.
-Provide troubleshooting tips if applicable.
-Specific Considerations for the Provided Repository
+Specify the license under which you're distributing RIO. You can use a license file (LICENSE) to provide details.
 
 Since the specific functionalities within The HITCH Project (https://github.com/Rio2802/THP.git) are unknown, I cannot provide detailed usage instructions. However, the provided structure effectively outlines the project and its core features.
 
